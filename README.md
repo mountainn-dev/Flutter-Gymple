@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Alt text](/playstore_gymple.png)
+![playstore_gymple](https://user-images.githubusercontent.com/32791382/224481111-ad00948c-9cc8-49d7-923f-8ff17610b03c.PNG)
